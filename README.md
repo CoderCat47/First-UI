@@ -1,10 +1,11 @@
-# myapp
+Hey here is Shama Ashraf . This is name of my first UI design # myapp
 
-A new Flutter project.
+A new Flutter project. In it i used UI design pattern that groups related information in a 
+flexible-size container visually resembling a playing card
 
-## Getting Started
+## I am Getting Started learing Flutter App Dev
 
-This project is a starting point for a Flutter application.
+This project is a detail  point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
